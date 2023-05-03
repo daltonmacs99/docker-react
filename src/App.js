@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is dynamically changing text through docker.
+          This is committed in a feature branch
         </p>
         <a
           className="App-link"
