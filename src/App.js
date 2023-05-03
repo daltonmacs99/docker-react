@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is committed in a feature branch
+          If you add "please work" to the environment name on EBS, it works!
         </p>
         <a
           className="App-link"
