@@ -26,4 +26,4 @@ jobs:
           existing_bucket_name: elasticbeanstalk-us-east-1-211826173771 # change everytime new app startup
           region: us-east-1
           version_label: ${{ github.sha }}
-          deployment_package: deploy.zip
+          deployment_package: deploy.zip #
